@@ -13,6 +13,7 @@ class helloWorkshop  {
         System.out.println("Goodbye Workshop!");
         System.out.println("Another String for poll scm test");
         System.out.println("testestsetsetsetsetsetset");
-        System.out.println("twsletjlisjeilgjslijdfgildfjlgjld");    
+        System.out.println("twsletjlisjeilgjslijdfgildfjlgjld");
+        System.out.println("tsetgdifgljdlfjgdjfgldfgjdi");
     }
 }
