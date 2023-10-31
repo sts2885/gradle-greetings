@@ -11,7 +11,8 @@ class helloWorkshop  {
         System.out.println("Maybe?");
         System.out.println("Okay then.");
         System.out.println("Goodbye Workshop!");
-        System.out.println("Another String for poll scm test")
-        System.out.println("testestsetsetsetsetsetset")
+        System.out.println("Another String for poll scm test");
+        System.out.println("testestsetsetsetsetsetset");
+        System.out.println("twsletjlisjeilgjslijdfgildfjlgjld");    
     }
 }
