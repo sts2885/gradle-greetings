@@ -15,6 +15,7 @@ class helloWorkshop  {
         System.out.println("testestsetsetsetsetsetset");
         System.out.println("twsletjlisjeilgjslijdfgildfjlgjld");
         System.out.println("tsetgdifgljdlfjgdjfgldfgjdi");
-        System.out.println("Another pollSCM Test")
+        System.out.println("Another pollSCM Test");
+        System.out.println("도저히 이해가 안되네 왜 test branch만 빌드가 안되지?");
     }
 }
