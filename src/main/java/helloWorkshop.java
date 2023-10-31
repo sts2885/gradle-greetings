@@ -20,5 +20,6 @@ class helloWorkshop  {
         System.out.println("성공했는데 한번 더");
         System.out.println("이제 H/1 테스트");
         System.out.println("안돼서 한번 더 테스트");
+        System.out.println("추가한 코드");
     }
 }
