@@ -19,5 +19,6 @@ class helloWorkshop  {
         System.out.println("도저히 이해가 안되네 왜 test branch만 빌드가 안되지?");
         System.out.println("성공했는데 한번 더");
         System.out.println("이제 H/1 테스트");
+        System.out.println("안돼서 한번 더 테스트");
     }
 }
